@@ -26,8 +26,10 @@ class Dog
     @breed = breed
     
   end
-  
-Dog.new
+
   
   
 end
+
+
+
