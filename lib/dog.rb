@@ -21,10 +21,10 @@ Don’t forget to add 	.	  def initialize(breed)
 
 
 class Dog 
-  
+  def initialize()
   def initialize(breed = "Mutt")
     @breed = breed 
   end 
-  attr_accessor
+  
   
 end
