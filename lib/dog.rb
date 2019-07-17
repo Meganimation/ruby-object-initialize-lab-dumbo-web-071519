@@ -21,7 +21,10 @@ Don’t forget to add 	.	  def initialize(breed)
 
 
 class Dog 
-  def initialize()
+  def initialize(name, breed = "Mutt")
+    
+  end
+  
   def initialize(breed = "Mutt")
     @breed = breed 
   end 
